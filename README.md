@@ -2,7 +2,7 @@
 
 **A Python-based application designed to promote overall wellness through personalized wellness plans, mood tracking, guided breathing exercises, and stress management techniques.**
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
@@ -14,16 +14,16 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📊 **Mood Tracking**: Keep track of your daily mood and visualize trends over time.
-- 🧘 **Guided Breathing Exercises**: Reduce stress and anxiety through breathing techniques.
-- 🔍 **Wellness Suggestions**: Receive personalized advice based on your mood.
-- 📅 **Weekly Mood Summary**: View your most common mood from the past week.
+- **Mood Tracking**: Keep track of your daily mood and visualize trends over time.
+- **Guided Breathing Exercises**: Reduce stress and anxiety through breathing techniques.
+- **Wellness Suggestions**: Receive personalized advice based on your mood.
+- **Weekly Mood Summary**: View your most common mood from the past week.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository:**
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 💻 Usage
+## Usage
 
 1. Run the application:
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 🌄 Screenshots
+## Screenshots
 
 ### Mood Tracking Interface:
 ![Mood Tracker UI](images/images/image.png)
@@ -75,7 +75,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**: The core language for developing the application.
 - **Tkinter**: For building the graphical user interface (GUI).
@@ -85,7 +85,7 @@
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
@@ -97,20 +97,12 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📞 Contact
+## Acknowledgments
 
-**Akanda Sina Kilicarslan**  
-[GitHub Profile](https://github.com/akandasina)  
-Feel free to reach out if you have any questions!
-
----
-
-## 💖 Acknowledgments
-
-I would like to extend a special thank you to **Ozgun Ozum Isikli**, who contributed invaluable insights to this project. Ozgun, a psychology major with a Bachelor's from Baskent University and a Master's from Queen Mary University in the UK, guided me with psychological concepts that shaped many of the wellness features in this project. Her support, knowledge, and encouragement were key in bringing this project to life. Thank you, Ozgun!
+I would like to extend a special thank you to **Ozgun Ozum Isikli**, who contributed invaluable insights to this project. Ozum, a psychology major with a Bachelor's from Baskent University and a Master's from Queen Mary University in the UK, guided me with psychological concepts that shaped many of the wellness features in this project. Her support, knowledge, and encouragement were key in bringing this project to life. Thank you, Ozgun!
